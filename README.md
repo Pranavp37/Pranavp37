@@ -6,17 +6,15 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me<br>─────────</h3>
+<h4 align="left">👨‍💻 About Me<br>─────────</h4>
 
 ###
-
-<br clear="both">
-
+<!-- <br clear="both"> -->
 <h4 align="left">• 💻 Passionate about Backend Development with Go<br><br>• 📱 Skilled in Mobile App Development (Flutter)<br><br>• 🧠 Strong interest in Concurrency, Memory Management & System Design<br><br>• 🔐 Focused on building secure, scalable APIs<br><br>• 🗄️ Experienced with PostgreSQL & Database Optimization<br><br>• 🐧 Linux user who loves clean and efficient systems</h4>
 
 ###
 
-<h3 align="left">🛠️ Tech Stack<br>──────────</h3>
+<h4 align="left">🛠️ Tech Stack<br>──────────</h4>
 
 ###
 
@@ -48,7 +46,7 @@
 
 ###
 
-<h3 align="left">📫 Connect With Me<br>───────────────</h3>
+<h4 align="left">📫 Connect With Me<br>───────────────</h4>
 
 ###
 
@@ -66,9 +64,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/53aed8580effbe945fb3c0fc1ea3670ca0d5989df4a4ba10e5bbb5a4d4d8a327/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"  />
-</div>
+<img align="left" height="217" src="https://camo.githubusercontent.com/53aed8580effbe945fb3c0fc1ea3670ca0d5989df4a4ba10e5bbb5a4d4d8a327/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"  />
 
 ###
 
